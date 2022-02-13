@@ -81,6 +81,7 @@
   }
   &__img {
     &-container {
+      max-width: 302px;
       display: flex;
       margin: 0;
     }
