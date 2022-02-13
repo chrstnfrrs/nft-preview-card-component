@@ -75,13 +75,13 @@
   }
   &__card {
     max-width: 350px;
+    box-sizing: border-box;
     background-color: var(--background--card);
     padding: 1.5rem;
     border-radius: 0.9375rem;
   }
   &__img {
     &-container {
-      max-width: 302px;
       display: flex;
       margin: 0;
     }
