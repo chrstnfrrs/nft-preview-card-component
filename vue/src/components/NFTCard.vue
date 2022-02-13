@@ -70,6 +70,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    box-sizing: border-box;
     padding: 1.5rem;
   }
   &__card {
