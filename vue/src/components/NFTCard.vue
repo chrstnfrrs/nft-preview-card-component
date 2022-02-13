@@ -70,6 +70,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    padding: 1.5rem;
   }
   &__card {
     max-width: 350px;
